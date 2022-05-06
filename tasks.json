@@ -1,0 +1,227 @@
+[
+    [
+        "Completeness",
+        {"string":"Parts were missing or not discussed enough"
+            ,"qual":0,"value":0},
+        {"string":"The essential Ideas were introduced",
+            "qual":1,"value":6},
+        {"string":"Every important aspect was discussed",
+            "qual":2,"value":9}
+    ],
+    [
+        "Focus",
+        {"string":"The talk was unfocussed, focussed to to much or concentrated on a bad sub-topic",
+            "qual":0,"value":0},
+        {"string":"The talk represents the usual structure",
+            "qual":1,"value":4},
+        {"string":"The focus of the talk was chosen well",
+            "qual":2,"value":5}
+    ],
+    [
+        "Clarity",
+        {"string":"The talk was unclear, or hard to follow",
+            "qual":0,"value":0},
+        {"string":"The talk is clear and understandable",
+            "qual":1,"value":3},
+        {"string":"The talk is clear, well-explained and easy to follow",
+            "qual":2,"value":5}
+    ],
+    [
+        "Correctness",
+        {"string":"The talk contains grave errors or shows a lack of understanding",
+            "qual":0,"value":0},
+        {"string":"Most thinks explained are correct",
+            "qual":1,"value":7},
+        {"string":"There are neirly no errors in the talk and it shows deep understanding",
+            "qual":2,"value":10}
+    ],
+    [
+        "Relevancy",
+        {"string":"The talk is not related to the topic",
+            "qual":0,"value":0},
+        {"string":"The talk is related to the topic",
+            "qual":1,"value":6},
+        {"string":"The talk is related to the topic well",
+            "qual":2,"value":7}
+    ],
+    [
+        "Relationship",
+        {"string":"The talk does not relate to anything else and this hurts your understanding of the topic",
+            "qual":0,"value":0},
+        {"string":"The talk does not relate to anything else or relates in a way that is not useful",
+            "qual":1,"value":2},
+        {"string":"The talk relates to other talks and/or the lliterature enhancing your understanding of the topic",
+            "qual":2,"value":3}
+    ],
+    [
+        "Competence",
+        {"string":"It is clear that the speaker does not have the necessary knowledge to hold this talk",
+            "qual":0,"value":0},
+        {"string":"The speaker has the minimum necessary knowledge to hold this talk",
+            "qual":1,"value":5},
+        {"string":"The speaker knows the topic well and is able to hold this talk well",
+            "qual":2,"value":7}
+    ],
+    [
+        "Clearness",
+        {"string":"The talk is unclear, or hard to follow",
+            "qual":0,"value":0},
+        {"string":"The talk is somewhat clear and understandable",
+            "qual":1,"value":3},
+        {"string":"The talk is clear, well-explained and easy to follow",
+            "qual":2,"value":4}
+    ],
+    [
+        "Phrasing",
+        {"string":"The talk is not well phrased. It uses too many colloqiums or complicated technical terms",
+            "qual":0,"value":0},
+        {"string":"The talk is phrased so that it is understandable and professional",
+            "qual":1,"value":4},
+        {"string":"The talk is phrased very well",
+            "qual":2,"value":5}
+    ],
+    [
+        "Language",
+        {"string":"The speaker is hardly able to use the english language",
+            "qual":0,"value":0},
+        {"string":"The speaker is able to speak acceptable english",
+            "qual":1,"value":4},
+        {"string":"The speaker is a very good speaker",
+            "qual":2,"value":6}
+    ],
+    [
+        "Ability to be critical",
+        {"string":"The speaker only reproduces the material and does not attempt to engage the ideas behind them any more",
+            "qual":0,"value":0},
+        {"string":"The speaker points out common problems or tries to find more advanced problems",
+            "qual":1,"value":3},
+        {"string":"The judgment of the speaker is as good as yours or exceeds it",
+            "qual":2,"value":5}
+    ],
+    [
+        "Structure",
+        {"string":"The talk is not structured well or is repetitive",
+            "qual":0,"value":0},
+        {"string":"The talk is structured well",
+            "qual":1,"value":3},
+        {"string":"The structure of the talk enhances the understanding",
+            "qual":2,"value":4}
+    ],
+    [
+        "Time",
+        {"string":"The talk is too short or too long",
+            "qual":0,"value":0},
+        {"string":"The talk is about the right length or feels neither to short or to long",
+            "qual":1,"value":5},
+        {"string":"The talk has perfect length and feels to have the right length for the topics discussed",
+            "qual":2,"value":6}
+    ],
+    [
+        "Visual Quality",
+        {"string":"The talk does not use visuals or should have put much more effort into these visuals", 
+            "qual":0,"value":0},
+        {"string":"The visuals are adequate at least",
+            "qual":1,"value":4},
+        {"string":"The visuals are helpful, show serious effort and or employ creative methods",
+            "qual":2,"value":6}
+    ],
+    [
+        "Use of text",
+        {"string":"Text is used way to much, Slides contain whole sentences and dont allow for reading all text",
+            "qual":0,"value":0},
+        {"string":"Text is not used but needed or there is a bit to much text",
+            "qual":1,"value":4},
+        {"string":"Text is used where it should be used and not used where it is not. Every piece of text is adequately compressed",
+            "qual":2,"value":6}
+    ],
+    [
+        "Use of Images",
+        {"string":"There are no/way to few Images in this talk",
+            "qual":0,"value":0},
+        {"string":"There is a fair amount if Images in this talk",
+            "qual":1,"value":4},
+        {"string":"Images are used appropiately to enhance the talk",
+            "qual":2,"value":6}
+    ],
+    [
+        "References",
+        {"string":"There are no References in this talk",
+            "qual":0,"value":0},
+        {"string":"There is a slide for References or most images are referenced",
+            "qual":1,"value":4},
+        {"string":"Every Image is referenced well and there is a slide for References",
+            "qual":2,"value":6}
+    ],
+    [
+        "Creativity",
+        {"string":"The talk is too formulaic",
+            "qual":0,"value":0},
+        {"string":"The talk is how you expect it to be",
+            "qual":1,"value":2},
+        {"string":"The talk/speaker shows some creativity",
+            "qual":2,"value":3}
+    ],
+    [
+        "Follow-bility",
+        {"string":"You cannot follow the speaker at all",
+            "qual":0,"value":0},
+        {"string":"With minimal effort you can follow the speakers talk",
+            "qual":1,"value":4},
+        {"string":"The talk is easy and fun to listen to and or you notice yourself curious about the next parts",
+            "qual":2,"value":6}
+    ],
+    [
+        "Ahm-iness",
+        {"string":"Many sentences contain Ahms, the student sometimes does not know what he wants to say",
+            "qual":0,"value":0},
+        {"string":"You notice that the student at least tried his talk once before",
+            "qual":1,"value":2},
+        {"string":"The student is an expert talker or has practiced well",
+            "qual":2,"value":3}
+    ],
+    [
+        "Easy Questions",
+        {"string":"The speaker is not at all able to answer even easy questions",
+            "qual":0,"value":0},
+        {"string":"The speaker is able to answer most easy questions or he did not get any",
+            "qual":1,"value":4},
+        {"string":"The speaker is able to answer easy questions well, making an effort to explain the sup Topic to the questioner",
+            "qual":2,"value":6}
+    ],
+    [
+        "Hard Questions",
+        {"string":"The student is not able to say that he does not know the answer and thus gives a wrong answer very confidently",
+            "qual":0,"value":0},
+        {"string":"The speaker is not able to answer every question or he did not get any",
+            "qual":1,"value":3},
+        {"string":"The speaker is even able to answer complicated questions or makes some good guesses (It is made clear that these are only guesses)",
+            "qual":2,"value":6}
+    ],
+    [
+        "Handling Mistakes",
+        {"string":"When confronted with his mistakes, the student collapses or desperately tries to defend his (wrong) fact",
+            "qual":0,"value":0},
+        {"string":"The student is able to accept that he has made some mistakes",
+            "qual":1,"value":2},
+        {"string":"The student did not make any mistakes or handles them very well (not actually a mistake because, etc.)",
+            "qual":2,"value":3}
+    ],
+    [
+        "Additional effort",
+        {"string":"The talk contains only what was necessary",
+            "qual":0,"value":0},
+        {"string":"The talk contains only the necessary elements but in a way that took some effort",
+            "qual":1,"value":2},
+        {"string":"Additional tasks were considered and talked about",
+            "qual":2,"value":3}
+    ],
+    [
+        "Final verdict",
+        {"string":"I dont like the talk (I stopped listening at some time)",
+            "qual":0,"value":0},
+        {"string":"The talk was average (Nothing special, but not bad)",
+            "qual":1,"value":10},
+        {"string":"I like the talk (I would not mind another like this)",
+            "qual":2,"value":20}
+    ]
+]
