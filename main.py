@@ -173,6 +173,10 @@ document.addEventListener("keydown",(event)=> {
 <h1>{tid+1}: {phrase}</h1>
 <br>
 {ret}
+
+<p>(Keyboard 1->3 to select bad->good quickly)</p>
+
+
 '''
 
 def task_id(i):
